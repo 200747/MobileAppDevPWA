@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/200747/MobileAppDevPWA/issues"
   },
-  "homepage": "https://github.com/200747/MobileAppDevPWA#readme"
+  "homepage": "https://github.com/200747/MobileAppDevPWA#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
